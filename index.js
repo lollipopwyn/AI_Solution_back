@@ -11,7 +11,7 @@ app.use(express.json()); //express 모듈의 json()메소드를 사용한다.
 
 app.use(
   cors({
-    origin: `${process.env.REACT_APP_MY_DOMAIN}`,
+    origin: 'solutionbackend.bstuz.com',
     credentials: true,
   })
 ); //http, https 프로토콜을 사용하는 서버 간의 통신을 허용한다.
