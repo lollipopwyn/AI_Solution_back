@@ -64,6 +64,9 @@ AICO의 기술을 활용하여 맞춤형 AI 솔루션 제품을 주문할 수 �
 - 페이지별 시안을 Gif 헝태로 전시.
 
 ### [메인 화면]
+<p align="center">
+  <img src ="https://github.com/lollipopwyn/AI_Solution_back/issues/1#issue-2537908369" >
+</p>
 
 ### [회원 가입]
 
