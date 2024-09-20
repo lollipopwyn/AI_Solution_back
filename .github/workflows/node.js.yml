@@ -27,5 +27,5 @@ jobs:
     - run: npm ci
     - run: |
             touch .env
-            echo "${{ secrets.PROD_ENV_FILE }}" > .env
+            echo "${{ secrets.REACT_APP_MY_DOMAIN }}" > .env
     - run: pm2 restart BackendAPI
